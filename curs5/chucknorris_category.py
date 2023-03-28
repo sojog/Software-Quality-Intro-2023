@@ -1,3 +1,5 @@
+""" Cerere HTTP pentru a primi o gluma aleatorie with Chuck Norris
+"""
 # importuri
 import json
 import requests
